@@ -1,6 +1,6 @@
 {
   "name": "@neutrinojs/migrate",
-  "version": "9.1.0",
+  "version": "9.4.0",
   "description": "Migrate Neutrino projects to the latest version via codemods",
   "bin": {
     "migrate": "./bin/migrate.js"
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "camelcase": "^6.0.0",
-    "jscodeshift": "^0.9.0",
-    "yargs": "^15.3.1"
+    "jscodeshift": "^0.11.0",
+    "yargs": "^16.0.0"
   }
 }
